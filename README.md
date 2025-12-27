@@ -8,7 +8,7 @@ This repository contains my solutions to Data Structures and Algorithms
 problems solved primarily on LeetCode.
 
 ### Language
-- C
+- Java
 
 ### Goal
 - Build strong problem-solving fundamentals
